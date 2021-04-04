@@ -1,4 +1,4 @@
-### Hi there, I'm Raunak Kumar 👋
+### Hi there, I'm Raunak 👋
 
 ## I'm a Student, Developer, Part-time freelancer and traveller!!
 
@@ -25,11 +25,6 @@
 ### 📺 My YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Fix: C/C++ programs not running...](https://www.youtube.com/watch?v=l8g8GvqMxHc)
-- [How to run C/C++ programs on VS Code](https://www.youtube.com/watch?v=PgjXZCdy0uc)
-- [Creating your first flutter app](https://www.youtube.com/watch?v=SF-VETXmhpE)
-- [Step-by-step guide on how to install and setup flutter on windows ](https://www.youtube.com/watch?v=8JhLCFUDjkU)
-- [How to install Flutter & Dart plugins in android studio](https://www.youtube.com/watch?v=UIJVXIHHvKE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCxfiXRkX31TNqaIpNtAIsUg)
