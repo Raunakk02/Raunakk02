@@ -46,7 +46,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img alt="Raunakk02's Github stats" src="https://github-readme-stats.vercel.app/api?username=Raunakk02"/>
+  [![Raunak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raunakk02)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
