@@ -36,7 +36,11 @@
 
 ---
 
+## GitHub Stats
 <img alt="Raunak's Github stats" src="https://github-readme-stats.vercel.app/api?username=Raunakk02&&show_icons=true&count_private=true&theme=radical"/>
+
+## Top Languages
+<img alt="Raunak's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raunakk02"/>
 
 [youtube]: https://www.youtube.com/channel/UCxfiXRkX31TNqaIpNtAIsUg
 [instagram]: https://www.instagram.com/raunak_k02/
