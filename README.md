@@ -36,19 +36,7 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  [![Raunak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raunakk02)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
+<img alt="Raunak's Github stats" src="https://github-readme-stats.vercel.app/api?username=Raunakk02&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
 [youtube]: https://www.youtube.com/channel/UCxfiXRkX31TNqaIpNtAIsUg
 [instagram]: https://www.instagram.com/raunak_k02/
