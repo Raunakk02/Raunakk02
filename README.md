@@ -36,7 +36,7 @@
 
 ---
 
-<img alt="Raunak's Github stats" src="https://github-readme-stats.vercel.app/api?username=Raunakk02&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+<img alt="Raunak's Github stats" src="https://github-readme-stats.vercel.app/api?username=Raunakk02&&show_icons=true"/>
 
 [youtube]: https://www.youtube.com/channel/UCxfiXRkX31TNqaIpNtAIsUg
 [instagram]: https://www.instagram.com/raunak_k02/
