@@ -31,8 +31,6 @@
 
 ---
 
-<img align="left" alt="Raunakk02's Github stats" src="https://github-readme-stats.vercel.app/api?username=Raunakk02&show_icons=true&hide_border=true"/>
-
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -43,6 +41,8 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="Raunakk02's Github stats" src="https://github-readme-stats.vercel.app/api?username=Raunakk02&show_icons=true&hide_border=true"/>
+
 </details>
 
 [youtube]: https://www.youtube.com/channel/UCxfiXRkX31TNqaIpNtAIsUg
