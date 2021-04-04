@@ -1,5 +1,9 @@
 ### Hi there, I'm Raunak 👋
 
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Raunakk02?color=%232088FF&logo=Github&style=for-the-badge">
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Raunakk02?logo=Github&style=for-the-badge">
+<img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/l8g8GvqMxHc?color=%23FF0000&logo=Youtube&style=for-the-badge">
+
 ## I'm a Student, Developer, Part-time freelancer and traveller!!
 
 - 🌱 I’m currently learning everything 🤣
@@ -15,7 +19,11 @@
 
 <br />
 
+<!--
 ### Languages and Tools:
+
+<img alt="js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+-->
 
 <br />
 <br />
