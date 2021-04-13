@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love playing badminton and play guitar (Not so good though 😛)
+- ⚡ Fun fact: I love playing badminton and playing guitar (Not so good though 😛)
 
 
 ### Connect with me:
@@ -19,11 +19,21 @@
 
 <br />
 
-<!--
-### Languages and Tools:
+### 👨‍💻 Languages and Tools:
 
-<img alt="js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
--->
+<code><img height="50" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png"></code>
+<code><img height="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
+<code><img height="50" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/2721/2721297.svg"></code>
+<code><img height="50" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code>
+<code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png"></code>
+<code><img height="50" src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4"></code>
+<code><img height="50" src="https://cdn.icon-icons.com/icons2/1381/PNG/128/visualstudiocode_93981.png"></code>
+<code><img height="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/firebase_logo_icon_171157.png"></code>
 
 <br />
 <br />
