@@ -34,6 +34,9 @@
 <code><img height="50" src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4"></code>
 <code><img height="50" src="https://cdn.icon-icons.com/icons2/1381/PNG/128/visualstudiocode_93981.png"></code>
 <code><img height="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/firebase_logo_icon_171157.png"></code>
+<code><img height="50" src="https://cdn.icon-icons.com/icons2/1243/PNG/128/adobephotoshopicon_84144.png"></code>
+<code><img height="50" src="https://cdn.icon-icons.com/icons2/1243/PNG/128/adobepremiereicon_84147.png"></code>
+<code><img height="50" src="https://cdn.icon-icons.com/icons2/1243/PNG/128/adobeaftereffectsicon_84141.png"></code>
 
 <br />
 <br />
