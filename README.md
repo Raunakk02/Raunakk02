@@ -66,5 +66,3 @@
 [youtube]: https://www.youtube.com/channel/UCxfiXRkX31TNqaIpNtAIsUg
 [instagram]: https://www.instagram.com/raunak_k02/
 [linkedin]: https://www.linkedin.com/in/raunak-kumar-8a4397194/
-
-<br />
