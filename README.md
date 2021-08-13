@@ -39,7 +39,6 @@
 <code><img height="50" src="https://cdn.icon-icons.com/icons2/1243/PNG/128/adobeaftereffectsicon_84141.png"></code>
 
 <br />
-<br />
 
 ---
 
