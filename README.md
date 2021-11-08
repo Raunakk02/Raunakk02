@@ -45,11 +45,11 @@
 ### 📺 My YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [FIX: C/C++ PROGRAMS NOT RUNNING PROPERLY ON VS CODE (EASY FIX) | 100% WORKING](https://www.youtube.com/watch?v=l8g8GvqMxHc)
+- [FIX: C/C++ PROGRAMS NOT RUNNING PROPERLY ON VS CODE &lpar;EASY FIX&rpar; | 100% WORKING](https://www.youtube.com/watch?v=l8g8GvqMxHc)
 - [How To Run C and C++ Programs on VS Code?](https://www.youtube.com/watch?v=PgjXZCdy0uc)
 - [CREATING YOUR FIRST FLUTTER APP | FLUTTER STARTER APP](https://www.youtube.com/watch?v=SF-VETXmhpE)
 - [STEP-BY-STEP GUIDE ON HOW TO INSTALL AND SETUP FLUTTER ON WINDOWS](https://www.youtube.com/watch?v=8JhLCFUDjkU)
-- [HOW TO INSTALL FLUTTER & DART PLUGINS IN ANDROID STUDIO (WITH + WITHOUT OPENING A PROJECT)](https://www.youtube.com/watch?v=UIJVXIHHvKE)
+- [HOW TO INSTALL FLUTTER &amp; DART PLUGINS IN ANDROID STUDIO &lpar;WITH + WITHOUT OPENING A PROJECT&rpar;](https://www.youtube.com/watch?v=UIJVXIHHvKE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCxfiXRkX31TNqaIpNtAIsUg)
