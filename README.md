@@ -7,7 +7,7 @@
 ## I'm a Student, Developer, Part-time freelancer and traveller!!! 
 
 - 🌱 I’m currently learning everything 😃 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love playing badminton and playing guitar (Not so good though 😛)
 
 
