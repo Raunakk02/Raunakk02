@@ -4,9 +4,9 @@
 <span><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Raunakk02?logo=Github&style=for-the-badge"></span>
 <span><img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/l8g8GvqMxHc?color=%23FF0000&logo=Youtube&style=for-the-badge"></span>
 
-## I'm a Student, Developer, Part-time freelancer and traveller!!! 
+## I'm a Student, Developer, and traveller!!! 
 
-- 🌱 I’m currently learning everything 😃 
+- 🌱 I’m currently improving my MERN Stack skills 😃 
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love playing badminton and playing guitar (Not so good though 😛)
 
@@ -21,22 +21,25 @@
 
 ### 👨‍💻 Languages and Tools:
 
-<code><img height="50" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png"></code>
-<code><img height="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
-<code><img height="50" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/2721/2721297.svg"></code>
-<code><img height="50" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png"></code>
-<code><img height="50" src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4"></code>
-<code><img height="50" src="https://cdn.icon-icons.com/icons2/1381/PNG/128/visualstudiocode_93981.png"></code>
-<code><img height="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/firebase_logo_icon_171157.png"></code>
-<code><img height="50" src="https://cdn.icon-icons.com/icons2/1243/PNG/128/adobephotoshopicon_84144.png"></code>
-<code><img height="50" src="https://cdn.icon-icons.com/icons2/1243/PNG/128/adobepremiereicon_84147.png"></code>
-<code><img height="50" src="https://cdn.icon-icons.com/icons2/1243/PNG/128/adobeaftereffectsicon_84141.png"></code>
+<span>
+<img height="50" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
+<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png">
+<img height="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">
+<img height="50" src="https://colab.research.google.com/img/colab_favicon_256px.png">
+<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<img height="50" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png">
+<img height="50" src="https://img.icons8.com/plasticine/100/000000/react.png"/>
+<img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<img height="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img height="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png">
+<img height="50" src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4">
+<img height="50" src="https://cdn.icon-icons.com/icons2/1381/PNG/128/visualstudiocode_93981.png">
+<img height="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/firebase_logo_icon_171157.png">
+<img height="50" src="https://cdn.icon-icons.com/icons2/1243/PNG/128/adobephotoshopicon_84144.png">
+<img height="50" src="https://cdn.icon-icons.com/icons2/1243/PNG/128/adobepremiereicon_84147.png">
+<img height="50" src="https://cdn.icon-icons.com/icons2/1243/PNG/128/adobeaftereffectsicon_84141.png">
+</span>
 
 <br />
 
