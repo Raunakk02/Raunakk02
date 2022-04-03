@@ -7,7 +7,7 @@
 ## I'm a Student, Developer, and traveller!!! 
 
 - 🌱 I’m currently improving my MERN Stack skills 😃 
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Improve DSA significantly and also keep in touch with development. 
 - ⚡ Fun fact: I love playing badminton and playing guitar (Not so good though 😛)
 
 
